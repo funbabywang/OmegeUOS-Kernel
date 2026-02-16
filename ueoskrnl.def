@@ -1,0 +1,8 @@
+EXPORTS
+    KeInitializeThread
+    ExAllocatePoolWithTag
+    ExFreePoolWithTag
+    PsCreateSystemThread
+    KeBugCheck
+    DriverEntry
+    KernelVersion      DATA
